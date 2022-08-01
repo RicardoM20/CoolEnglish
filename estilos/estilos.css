@@ -206,11 +206,11 @@ pointer-events: all;
   background-color: #0a1a2a;
 }
 .info h1{
-  font-size: 5.5rem;
+  font-size: 6.5rem;
   text-align: center;
 }
 .info p{
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 .form-container{
   background: rgba(247, 246, 246, 0.8);
